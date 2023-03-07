@@ -5,7 +5,7 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				shantell: ['Shantell sans'],
-				alegreya: ['Alegreya Sans', sans-serif]
+				alegreya: ['Alegreya Sans']
 			}
 		},
 	},
