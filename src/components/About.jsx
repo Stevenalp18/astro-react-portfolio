@@ -5,7 +5,7 @@ export default function About(){
             <h1 className="text-white text-center mx-auto mb-10 text-3xl sm:text-4xl font-shantell">Meet The Creator</h1>
             <div className="flex flex-col gap-10 sm:flex-row sm:gapx-4 mx-auto max-w-screen-lg">
                 <div /* Image */>
-                    <img src="../../public/portfolio-image.jpeg" alt="portfolio image" className="rounded-3xl"/>
+                    <img src="./public/portfolio-image.jpeg" alt="portfolio image" className="rounded-3xl"/>
                 </div>
                 <div className="" /* Text Box */>
                     <p className="text-white font-sono text-center sm:text-left text-2xl">Hi, I am Steven Perez. I am the proud owner, designer, web developer of this website and the projects below. I have always loved learning to code ever since I begin learning RobotC in school, went to learn some Python, and eventually was really attracted to Javascript, it's amazing DOM manipulation and the rest of the skills that come with it. Check out the rest of my projects, I am always working on something new to improve my skillset and learn more.</p>
