@@ -2,7 +2,7 @@ import Navbar from "./Navbar"
 
 export default function Header(){
     return (
-        <header className="">
+        <header className="bg-[url('../public/mountain-background.jpeg')] bg-no-repeat bg-center bg-cover">
             <Navbar />
             <div className="mx-6 mt-32 sm:mt-52 sm:w-4/6 max-w-2xl">
                 <p className="rounded-2xl text-2xl leading-[2] sm:p-4 sm:text-5xl sm:leading-[1.4] text-white font-shantell text-gray-100">Hi, My name is Steven Perez and I like to create websites and build random projects!</p>
@@ -11,6 +11,3 @@ export default function Header(){
         </header>
     )
 }
-
-
-//bg-[url('../public/mountain-background.jpeg')] bg-no-repeat bg-center bg-cover
