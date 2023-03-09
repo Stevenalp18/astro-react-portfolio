@@ -2,11 +2,11 @@
 export default function Navbar() {
 
     return (
-        <nav className="flex justify-between p-4 sm:p-10 sm:text-lg text-white">
-            <div className='text-xl font-shantell'>
+        <nav className="flex justify-between text-white p-8 sm:p-10">
+            <div className='text-3xl font-shantell'>
                 Steven Perez
             </div>
-            <ol className="flex gap-6 invisible sm:visible">
+            <ol className="flex gap-6 hidden sm:flex font-sono">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#" >Projects</a></li>
@@ -16,4 +16,4 @@ export default function Navbar() {
     )
 }
 
-//Fix and Make Hamburger at end
+//Fix and Make Hamburger at end, ol causes some mobile responsive issues

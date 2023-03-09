@@ -5,10 +5,12 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				shantell: ['Shantell sans'],
-				alegreya: ['Alegreya Sans']
+				alegreya: ['Alegreya Sans'],
+				sono: ['Sono']
 			},
 			backgroundImage: {
-				'mountain': "url('/public/mountain-background.jpeg')"
+				'mountain': "url('/public/mountain-background.jpeg')",
+				'night-sky': "url('public/night-sky.avif')"
 			}
 		},
 	},
