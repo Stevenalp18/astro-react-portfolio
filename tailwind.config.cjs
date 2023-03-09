@@ -10,7 +10,7 @@ module.exports = {
 			},
 			backgroundImage: {
 				'mountain': "url('/public/mountain-background.jpeg')",
-				'night-sky': "url('public/night-sky.avif')"
+				'night-sky': "url('/public/night-sky.jpeg')"
 			}
 		},
 	},
