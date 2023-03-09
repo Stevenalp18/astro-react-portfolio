@@ -1,4 +1,4 @@
-import Steven from "../public/portfolio-image.jpeg"
+import Steven from "./public/portfolio-image.jpeg"
 
 export default function About(){
     return(
