@@ -6,6 +6,9 @@ module.exports = {
 			fontFamily: {
 				shantell: ['Shantell sans'],
 				alegreya: ['Alegreya Sans']
+			},
+			backgroundImage: {
+				'mountain': "url('/public/mountain-background.jpeg')"
 			}
 		},
 	},
