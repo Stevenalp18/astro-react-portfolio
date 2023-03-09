@@ -3,7 +3,7 @@ export default function Navbar() {
 
     return (
         <nav className="flex justify-between p-4 sm:p-10 sm:text-lg text-white">
-            <div className=''>
+            <div className='text-xl font-shantell'>
                 Steven Perez
             </div>
             <ol className="flex gap-6 invisible sm:visible">
