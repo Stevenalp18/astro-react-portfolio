@@ -1,4 +1,4 @@
-import portfolio from 'src/assets/portfolio-image.jpeg'
+import portfolio from './assets/portfolio-image.jpeg'
 
 export default function About(){
     return(
