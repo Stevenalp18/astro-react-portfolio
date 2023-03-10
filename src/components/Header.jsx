@@ -1,3 +1,4 @@
+import Downarrow from "./Downarrow"
 import Navbar from "./Navbar"
 
 export default function Header(){
