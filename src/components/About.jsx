@@ -2,7 +2,7 @@
 
 export default function About(){
     return(
-        <section className="w-screen bg-no-repeat bg-center bg-cover w-screen h-auto bg-night-sky bg-top p-12 sm:p-14">
+        <section className="w-screen bg-no-repeat bg-center bg-cover w-screen h-auto bg-starry-sky bg-top p-12 sm:p-14">
             <h1 className="text-white text-center mx-auto mb-10 text-3xl sm:text-4xl font-shantell">Meet The Creator</h1>
             <div className="flex flex-col gap-10 sm:flex-row sm:gapx-4 mx-auto max-w-screen-lg">
                 <div /* Image */>
