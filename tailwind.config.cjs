@@ -9,8 +9,8 @@ module.exports = {
 				sono: ['Sono']
 			},
 			backgroundImage: {
-				'mountain': "url('/public/mountain-background.jpeg')",
-				'night-sky': "url('/public/night-sky.jpeg')"
+				'mountain': "url('/public/assets/mountain-background.jpeg')",
+				'night-sky': "url('/public/assets/night-sky.jpeg')"
 			}
 		},
 	},
