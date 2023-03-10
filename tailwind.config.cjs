@@ -10,7 +10,7 @@ module.exports = {
 			},
 			backgroundImage: {
 				'mountain': "url('https://github.com/Stevenalp18/web-dev-images/blob/main/mountain-background.jpeg?raw=true')",
-				'starry-sky': "url('https://images.unsplash.com/photo-1618890334461-c33a04c4c916?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80')",
+				'starry-sky': "url('https://images.unsplash.com/photo-1622793139910-e261be0b30a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fG5pZ2h0JTIwc2t5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60')",
 				'down-arrow': "url('https://github.com/Stevenalp18/web-dev-images/blob/main/down-arrow.png?raw=true')"
 			}
 		},
